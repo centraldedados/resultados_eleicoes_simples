@@ -1,7 +1,7 @@
 Resultados das Eleições Legislativas
 ===================
 
-Resultados das eleições legislativas por ano desde 2009. Para informação mais promenorizada consultar  [eleições-legislativas](https://github.com/centraldedados/eleicoes-legislativas)
+Resultados das eleições legislativas por ano desde 2009. Para informação mais pormenorizada consultar  [eleições-legislativas](https://github.com/centraldedados/eleicoes-legislativas)
 
 ##  Licença
 
