@@ -1,0 +1,36 @@
+{
+  "resources": [
+    {
+      "name": "dados_deputados",
+      "path": "data/dados_deputados.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 324,
+      "schema": {
+        "fields": [
+          {
+            "name": "ano",
+            "type": "integer",
+            "description": "ano da eleição"
+          },
+          {
+            "name": "partido",
+            "type": "string",
+            "description": "nome do partido"
+          },
+          {
+            "name": "deputados",
+            "type": "integer",
+            "description": "número de deputados"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "resultados_eleicoes",
+  "title": "Resultados das Eleições legislativas",
+  "description": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "ODC-PDDL-1.0"
+}
