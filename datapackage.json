@@ -11,7 +11,7 @@
           {
             "name": "ano",
             "type": "integer",
-            "description": "ano da eleição"
+            "description": "ano da eleicao"
           },
           {
             "name": "partido",
@@ -19,9 +19,9 @@
             "description": "nome do partido"
           },
           {
-            "name": "deputados",
+            "name": "num_deputados",
             "type": "integer",
-            "description": "número de deputados"
+            "description": "numero de deputados"
           }
         ]
       }
